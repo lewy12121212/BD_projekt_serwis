@@ -1,0 +1,17 @@
+html{
+    font-size: 67%;
+}
+
+#panel_items{
+    display: flex;
+    align-items: center;  
+    word-wrap: break-word;
+}
+
+.panel_buttons{
+    width: 20rem;
+    height: 20rem;
+    font-size: 3.5rem;
+    white-space: normal;
+    border-radius: 4rem;
+}
